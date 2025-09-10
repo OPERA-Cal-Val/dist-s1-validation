@@ -1,0 +1,21 @@
+name: dist-s1-val
+channels:
+ - conda-forge
+dependencies:
+ - python>=3.12
+ - pip
+ - dem_stitcher
+ - geopandas
+ - dist-s1
+ - scikit-learn
+ - jupyterlab
+ - matplotlib
+ - numpy
+ - pandas
+ - pydantic
+ - rasterio>=1.4.0
+ - ruff
+ - scipy
+ - setuptools
+ - setuptools_scm
+ - shapely
