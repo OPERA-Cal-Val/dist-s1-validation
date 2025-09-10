@@ -34,3 +34,8 @@ build/
 __pycache__/
 *.py[cod]
 *$py.class
+
+## Data for confirmation
+generate_dist_s1_table/tmp/
+generate_dist_s1_table/unconfirmed_products/
+generate_dist_s1_table/confirmed_products/
