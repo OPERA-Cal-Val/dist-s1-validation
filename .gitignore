@@ -34,3 +34,6 @@ build/
 __pycache__/
 *.py[cod]
 *$py.class
+
+# DIST-ALERT files
+mapLabels2024
