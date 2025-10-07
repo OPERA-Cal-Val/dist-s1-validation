@@ -38,7 +38,12 @@ __pycache__/
 ## Data for confirmation
 generate_dist_s1_table/tmp/
 generate_dist_s1_table/unconfirmed_products/
+from pathlib import Path
+
 generate_dist_s1_table/confirmed_products/
 
 # DIST-ALERT files
 mapLabels2024
+
+## Papermill nbs
+generate_dist_s1_table/out_nbs/
