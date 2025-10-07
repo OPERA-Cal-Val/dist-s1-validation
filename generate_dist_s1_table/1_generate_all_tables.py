@@ -12,8 +12,6 @@ out_nbs = Path("out_nbs")
 out_nbs.mkdir(exist_ok=True)
 
 for mgrs_tile_id in mgrs_tiles:
-    if mgrs_tile_id != "45TUK":
-        continue
     print(f"Generating table for {mgrs_tile_id}")
     pm.execute_notebook(
         "1_generate_dist_s1_table.ipynb",
