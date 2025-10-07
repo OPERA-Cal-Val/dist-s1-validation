@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "sites",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "424369_1" }, "geometry": { "type": "Point", "coordinates": [ 85.203138439624198, 44.234016749020903 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_2" }, "geometry": { "type": "Point", "coordinates": [ 85.198667353061396, 44.195863448113698 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_3" }, "geometry": { "type": "Point", "coordinates": [ 85.191566189637001, 44.207095074733303 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_4" }, "geometry": { "type": "Point", "coordinates": [ 85.152616236326494, 44.275884746660999 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_5" }, "geometry": { "type": "Point", "coordinates": [ 85.199612162941094, 44.201820369026997 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_6" }, "geometry": { "type": "Point", "coordinates": [ 85.176221067430205, 44.241962841188403 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_7" }, "geometry": { "type": "Point", "coordinates": [ 85.156333667636204, 44.193027129394402 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_8" }, "geometry": { "type": "Point", "coordinates": [ 85.201299237014098, 44.245061493167398 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_9" }, "geometry": { "type": "Point", "coordinates": [ 85.172609356018299, 44.200851295610398 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_10" }, "geometry": { "type": "Point", "coordinates": [ 85.164248609349997, 44.228266497479098 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_11" }, "geometry": { "type": "Point", "coordinates": [ 85.158445149810504, 44.245728916517201 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_12" }, "geometry": { "type": "Point", "coordinates": [ 85.091041023637104, 44.250293916822102 ] } },
+{ "type": "Feature", "properties": { "ID": "424369_13" }, "geometry": { "type": "Point", "coordinates": [ 85.087497125874293, 44.208910829677201 ] } }
+]
+}
