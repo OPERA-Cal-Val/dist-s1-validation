@@ -47,3 +47,5 @@ mapLabels2024
 
 ## Papermill nbs
 generate_dist_s1_table/out_nbs/
+generate_dist_s1_table/validation_viz_data/
+generate_dist_s1_table/dist_hls/
