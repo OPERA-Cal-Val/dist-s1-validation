@@ -58,6 +58,7 @@ block,blockstratum,measureType,refChangeType,changeintensity,NpixelsEvaluated,st
 916424,other,users,VL,high,16,0.7713999636812106
 1125880,other,users,VL,high,16,None
 1159486,other,users,VL,high,13,None
+1238088,other,users,VL,high,8,None
 1455965,other,users,VL,high,15,1.0
 41318,waternew,producers,VL,high,20,0.7682965670836068
 97785,waternew,producers,VL,high,20,None
@@ -118,6 +119,7 @@ block,blockstratum,measureType,refChangeType,changeintensity,NpixelsEvaluated,st
 916424,other,producers,VL,high,16,0.0
 1125880,other,producers,VL,high,16,None
 1159486,other,producers,VL,high,13,0.0
+1238088,other,producers,VL,high,8,None
 1455965,other,producers,VL,high,15,0.01757677990461028
 41318,waternew,overall,VL,high,20,0.9766785919137784
 97785,waternew,overall,VL,high,20,0.9882226904985909
@@ -178,4 +180,5 @@ block,blockstratum,measureType,refChangeType,changeintensity,NpixelsEvaluated,st
 916424,other,overall,VL,high,16,0.9880104144019488
 1125880,other,overall,VL,high,16,1.0
 1159486,other,overall,VL,high,13,0.9999345166837122
+1238088,other,overall,VL,high,8,None
 1455965,other,overall,VL,high,15,0.9974301357979765
