@@ -38,6 +38,7 @@ block,blockstratum,measureType,refChangeType,changeintensity,NpixelsEvaluated,st
 701068,treelossTF,users,ALL,high,13,0.7058191392187416
 723123,treelossTF,users,ALL,high,20,0.9416215382170212
 782693,treelossTF,users,ALL,high,18,0.0
+835445,treelossTF,users,ALL,high,18,0.3665052176971383
 889432,treelossTF,users,ALL,high,20,0.9706631446489385
 1058298,treelossTF,users,ALL,high,19,0.9629130595456031
 74185,cropnew,users,ALL,high,15,None
@@ -45,7 +46,7 @@ block,blockstratum,measureType,refChangeType,changeintensity,NpixelsEvaluated,st
 857008,cropnew,users,ALL,high,20,0.43275550801976775
 1085866,cropnew,users,ALL,high,20,0.5980949635988377
 1415162,cropnew,users,ALL,high,20,0.0
-1465798,cropnew,users,ALL,high,15,0.8049366328497836
+1465798,cropnew,users,ALL,high,16,0.803968899278382
 168365,oldcrop_short,users,ALL,high,20,0.5616651912233012
 490359,oldcrop_short,users,ALL,high,20,0.17534743230071428
 529881,oldcrop_short,users,ALL,high,20,0.43597102226501044
@@ -99,6 +100,7 @@ block,blockstratum,measureType,refChangeType,changeintensity,NpixelsEvaluated,st
 701068,treelossTF,producers,ALL,high,13,1.0
 723123,treelossTF,producers,ALL,high,20,0.7875469389825456
 782693,treelossTF,producers,ALL,high,18,None
+835445,treelossTF,producers,ALL,high,18,0.3233717423503877
 889432,treelossTF,producers,ALL,high,20,0.259280526261409
 1058298,treelossTF,producers,ALL,high,19,0.6425206950128345
 74185,cropnew,producers,ALL,high,15,0.0
@@ -106,7 +108,7 @@ block,blockstratum,measureType,refChangeType,changeintensity,NpixelsEvaluated,st
 857008,cropnew,producers,ALL,high,20,0.323620316816236
 1085866,cropnew,producers,ALL,high,20,0.5420510064084819
 1415162,cropnew,producers,ALL,high,20,0.5078514366755569
-1465798,cropnew,producers,ALL,high,15,0.0139817645322017
+1465798,cropnew,producers,ALL,high,16,0.011241779595359373
 168365,oldcrop_short,producers,ALL,high,20,0.4646063128735333
 490359,oldcrop_short,producers,ALL,high,20,0.5582678743316337
 529881,oldcrop_short,producers,ALL,high,20,0.6146389949162935
@@ -160,6 +162,7 @@ block,blockstratum,measureType,refChangeType,changeintensity,NpixelsEvaluated,st
 701068,treelossTF,overall,ALL,high,13,0.9958892693035408
 723123,treelossTF,overall,ALL,high,20,0.9909508303110027
 782693,treelossTF,overall,ALL,high,18,0.9948168263601401
+835445,treelossTF,overall,ALL,high,18,0.98220867330542
 889432,treelossTF,overall,ALL,high,20,0.9717905975560853
 1058298,treelossTF,overall,ALL,high,19,0.9558749205680306
 74185,cropnew,overall,ALL,high,15,0.9996778326901635
@@ -167,7 +170,7 @@ block,blockstratum,measureType,refChangeType,changeintensity,NpixelsEvaluated,st
 857008,cropnew,overall,ALL,high,20,0.9919864555759789
 1085866,cropnew,overall,ALL,high,20,0.9803810737693862
 1415162,cropnew,overall,ALL,high,20,0.9507798002245974
-1465798,cropnew,overall,ALL,high,15,0.9494008240251808
+1465798,cropnew,overall,ALL,high,16,0.9494737650295128
 168365,oldcrop_short,overall,ALL,high,20,0.9801308287257322
 490359,oldcrop_short,overall,ALL,high,20,0.7501436026632932
 529881,oldcrop_short,overall,ALL,high,20,0.9740151224732598
