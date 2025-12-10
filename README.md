@@ -25,3 +25,18 @@ In this repository, we:
 ## Product Validation 
 
 TBD
+
+
+## Results
+The overall global accuracies are in DISTperformannce.ipynb
+
+Block accuracies and pixel accuracies are in the results folder.
+
+The block table compared against all the reference change: https://github.com/OPERA-Cal-Val/dist-s1-validation/blob/main/results/blockaccuracy_ALLsub_high_firstprovconf_DIST-S1.csv
+And against just vegetation loss: https://github.com/OPERA-Cal-Val/dist-s1-validation/blob/main/results/blockaccuracy_VLsub_high_firstprovconf_DIST-S1.csv
+
+The statistics for the tables labeled "_high_" (linked above) are all for high magnitude product vs any reference change for users (commission) and high magnitude reference vs any magnitude product for producers (omission).
+
+Note the tables area named blockaccuracy_REFERENCETYPE_MAGNITUDE_CONFIDENCELEVELS_DIST-S1 (e.g. blockaccuracy_ALLsub_high_firstprovconf_DIST-S1).
+
+The pixel information can be found in similarly named tables (with lookback being how many days back in the reference table change is looked for for current disturbances): https://github.com/OPERA-Cal-Val/dist-s1-validation/blob/main/results/pointmatrix_VLsub_firstprovconf_DIST-S1_lookback30.csv
