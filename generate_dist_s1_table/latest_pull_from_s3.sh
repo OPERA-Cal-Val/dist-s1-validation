@@ -1,0 +1,1 @@
+aws s3 ls s3://opera-pst-rs-pop1/products/DIST_S1/ | grep "OPERA_L3_DIST-ALERT-S1_.*_2024.*_202604.*" | sed 's/^.*OPERA/OPERA/' > products_in_s3.txt
